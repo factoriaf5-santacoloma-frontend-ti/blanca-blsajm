@@ -32,6 +32,7 @@ Clonar la siguiente página del blog Anden 27:
 <details>
 <summary>gif animado</summary>
 <br>
+
 ![captura](./captura-pantalla.png)
 </details>
 
