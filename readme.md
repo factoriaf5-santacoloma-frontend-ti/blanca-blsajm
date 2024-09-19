@@ -119,12 +119,12 @@ Clonar la siguiente página del blog Anden 27:
 - Se compartirá la url del repositorio de github y de la gh page.
 
 ## Evaluación
-- [] La página es exactamente igual a la muestra.
-- [] Las etiquetas html están bien elegidas para el cometido que se utilizan.
-- [] El html es semántico y accesible (en la medida de lo posible).
-- [] La página de estilos está limpia y ordenada. Las reglas y las propiedades siguen un patrón.
-- [] Se han aplicado los principios YAGNI y DRY.
- [ ] Se ha incluido un fichero de readme en el proyecto con información sobre el mismo.
+- [ ] La página es exactamente igual a la muestra.
+- [ ] Las etiquetas html están bien elegidas para el cometido que se utilizan.
+- [ ] El html es semántico y accesible (en la medida de lo posible).
+- [ ] La página de estilos está limpia y ordenada. Las reglas y las propiedades siguen un patrón.
+- [ ] Se han aplicado los principios YAGNI y DRY.
+- [ ] Se ha incluido un fichero de readme en el proyecto con información sobre el mismo.
 - [ ] Se ha incluido un link a la presentación desde el readme del proyecto.
 - [ ] Todos los miembros del equipo se han sentido escuchados.
 - [ ] Todos los miembros del equipo han colaborado en el resultado final.
